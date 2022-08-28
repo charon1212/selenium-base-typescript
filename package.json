@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/charon1212/selenium-base-typescript/issues"
   },
-  "homepage": "https://github.com/charon1212/selenium-base-typescript#readme"
+  "homepage": "https://github.com/charon1212/selenium-base-typescript#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.2"
+  }
 }
